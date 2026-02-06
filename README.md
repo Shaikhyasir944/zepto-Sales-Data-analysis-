@@ -22,8 +22,3 @@ aggregations on real-world like datasets.
 - Identifying trends and patterns
 - Using CASE, GROUP BY, ORDER BY, JOIN
 
-## 📊 Sample Queries
-```sql
-SELECT category, COUNT(*) AS total_products
-FROM products
-GROUP BY category;
